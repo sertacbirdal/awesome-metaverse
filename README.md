@@ -4,8 +4,6 @@ List of awesome projects and information resources about the [Metaverse](https:/
 there are many competing ideas about what the Metaverse is, feel free to leave feedback in the form of pull requests,
 issues, and comments. You can also reach us through [discord](https://discord.gg/m3-org).
 
----
-
 ## Table of Contents
 
 - [WebXR](#webxr)
